@@ -1,6 +1,3 @@
-using System.Security;
-using System.Collections.Generic;
-
 namespace Games.Core
 {
     public class GameElement
